@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<game_strings>
+        <list type="english">
+            <choice_txt lang="en-US">Smoke or Fire?</choice_txt>
+            <opt1 lang="en-US">Smoke</opt1>
+            <opt2 lang="en-US">Fire</opt2>
+            <correct lang="en-US">Correct!</correct>
+            <wrong lang="en-US">Wrong</wrong>
+        </list>
+        <list type="español">
+            <choice_txt lang="es-419">¿Humo o fuego?</choice_txt>
+            <opt1 lang="es-419">El humo</opt1>
+            <opt2 lang="es-419">El fuego</opt2>
+            <correct lang="es-419">¡Cierto!</correct>
+            <wrong lang="es-419">Falso</wrong>
+        </list>
+        <list type="português">
+            <choice_txt lang="pt-BR">Fumaça ou fogo?</choice_txt>
+            <opt1 lang="pt-BR">A fumaça</opt1>
+            <opt2 lang="pt-BR">O fogo</opt2>
+            <correct lang="pt-BR">Correta!</correct>
+            <wrong lang="pt-BR">Falsa</wrong>
+        </list>
+</game_strings>
