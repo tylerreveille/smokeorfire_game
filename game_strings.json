@@ -1,0 +1,13 @@
+{
+	"game strings": [
+        {
+			"en-US":["Smoke or Fire?", "Smoke", "Fire", "Correct!", "wrong"]
+		},
+		{
+			"es-419":["¿Humo o fuego?", "El humo", "El fuego", "¡Cierto!", "Falso"]
+		},
+		{
+			"pt-BR":["Fumaça ou fogo?", "A fumaça", "O fogo", "Correta!", "Falsa"]
+		}
+	]
+}
